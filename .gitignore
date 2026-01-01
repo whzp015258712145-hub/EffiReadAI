@@ -1,0 +1,26 @@
+# Dependency Directories
+node_modules/
+
+# Environment Variables (Contains sensitive API Keys)
+.env
+.env.local
+.env.*.local
+
+# Development & Communication Materials (FORCE IGNORE)
+openspec/
+"给ai看的屏幕截图，或者视频，用于沟通/"
+*给ai看的屏幕截图*
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Assets & Media
+*.mov
+*.png
+*.jpg
+*.jpeg
+*.mp4
