@@ -7,7 +7,7 @@
 - **Professor Persona**: The AI acts as a mentor, guiding you through complex topics in an easy-to-understand yet profound way, perfectly balancing detail and brevity.
 - **Smart PDF Rendering**: Smooth multi-page viewing and fluid navigation for a superior reading experience.
 - **Real-time Streaming**: Powered by streaming responses, AI insights appear instantly as they are generated.
-- **Multi-Model Support**: Deeply integrated with Gemini 1.5/2.0, with broad compatibility for OpenAI and DeepSeek models.
+- **Multi-Model Support**: Deeply integrated with Gemini with broad compatibility for OpenAI and DeepSeek models.
 - **Production-Ready Security**: Built-in rate limiting, security headers (Helmet), and sensitive data protection.
 - **Fully Responsive**: A mobile-optimized layout that allows for high-productivity reading on smartphones and tablets.
 
