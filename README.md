@@ -15,8 +15,8 @@
 
 ### Prerequisites
 - Install [Node.js](https://nodejs.org/) (LTS version recommended).
-- Obtain a [Gemini API Key](https://aistudio.google.com/app/apikey).
-
+- Obtain an [API key](https://aistudio.google.com/app/apikey) (Gemini recommended).
+  
 ### Installation & Setup
 
 1. **Clone the Repository**
