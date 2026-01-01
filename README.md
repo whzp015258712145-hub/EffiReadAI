@@ -1,6 +1,6 @@
 # EffiReadAI 📚
 
-**EffiReadAI** is an intelligent PDF reading and summarization assistant designed to enhance your learning and research efficiency through the power of AI. It is more than just a reader—it's a "Digital Professor" ready to guide you through any document.
+**EffiReadAI** isn’t just another AI summarizer—it’s the Pro Max evolution of how you interact with knowledge. While standard workflows often trap you in a tedious cycle of manual screenshots and unreliable AI hallucinations, we’ve built a 'Digital Professor' that truly respects your time. By eliminating the friction of manual captures and sharpening the accuracy of every insight, we deliver pure, unadulterated efficiency. Welcome to a smarter way to read.
 
 ## ✨ Core Features
 
